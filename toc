@@ -1,0 +1,7 @@
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="MDMOnCloud" audience="service" href="/docs/services/MDMOnCloud/index.html"}
+IBM Master Data Management on Cloud
+
+  {: .topicgroup}
+    index.md
