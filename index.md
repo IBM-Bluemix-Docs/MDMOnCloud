@@ -7,7 +7,7 @@ lastupdated: "2017-06-20"
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank" rel="noopener noreferrer"}
 
 # Getting started with IBM Master Data Management on Cloud
 {: #mdmoc_getting_started}
@@ -24,4 +24,4 @@ and receive your welcome letter with the service details,
 
 ## Additional resources
 
-- [IBM MDM on Cloud Learning Center](https://developer.ibm.com/clouddataservices/docs/mdm/){: new_window}
+- [IBM MDM on Cloud Learning Center](https://developer.ibm.com/clouddataservices/docs/mdm){: new_window}
