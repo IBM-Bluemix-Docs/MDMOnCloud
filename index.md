@@ -24,4 +24,4 @@ and receive your welcome letter with the service details,
 
 ## Additional resources
 
-- [IBM MDM on Cloud Learning Center](https://developer.ibm.com/clouddataservices/docs/mdm/#){: new_window}
+- [IBM MDM on Cloud Learning Center](http://ibmtvdemo.edgesuite.net/software/analytics/learning-centers/mdm-on-cloud/index.html){: new_window}
