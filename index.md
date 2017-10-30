@@ -12,7 +12,7 @@ lastupdated: "2017-06-20"
 # Getting started with IBM Master Data Management on Cloud
 {: #mdmoc_getting_started}
 
-IBM® Master Data Management on Cloud for Bluemix® offers the rich features of an
+IBM® Master Data Management on Cloud offers the rich features of an
 on-premises InfoSphere® Master Data Management (InfoSphere MDM) deployment without
 the cost, complexity, and risk of managing your own infrastructure. IBM MDM on Cloud
 provides preinstalled InfoSphere MDM configurations for production and development
