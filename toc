@@ -1,6 +1,6 @@
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="MDMOnCloud" audience="service" href="/docs/services/MDMOnCloud/index.html"}
+{: .toc subcollection="MDMOnCloud" audience="service" arm="3663109" href="/docs/services/MDMOnCloud/index.html"}
 IBM Master Data Management on Cloud
 
   {: .topicgroup}
