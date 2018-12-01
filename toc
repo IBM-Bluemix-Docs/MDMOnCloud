@@ -1,7 +1,9 @@
+{:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
 {: .toc subcollection="MDMOnCloud" audience="service" arm="3663109" href="/docs/services/MDMOnCloud/index.html" path="MDMOnCloud"}
 IBM Master Data Management on Cloud
 
-  {: .topicgroup}
-    index.md
+  {: .navgroup id="learn"}
+  index.md
+  {: .navgroup-end}
