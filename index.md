@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2018
-lastupdated: "2018-05-11"
+lastupdated: "2019-03-20"
 
 ---
 
@@ -18,7 +18,7 @@ the cost, complexity, and risk of managing your own infrastructure. IBM MDM on C
 provides preinstalled InfoSphere MDM configurations for production and development
 environments in an IBM SoftLayer® cloud-hosted environment.
 
-After you [request a service](https://console.ng.bluemix.net/catalog/services/ibm-master-data-management-on-cloud)
+After you [request a service](/catalog/services/ibm-master-data-management-on-cloud)
 and receive your welcome letter with the service details,
 [**view the PDF documentation to get started**](https://public.dhe.ibm.com/cloud/bluemix/hosted/).
 
