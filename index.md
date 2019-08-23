@@ -4,6 +4,8 @@ copyright:
   years: 2015, 2018
 lastupdated: "2019-03-20"
 
+keywords: hosted services
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -17,11 +19,9 @@ on-premises InfoSphere® Master Data Management (InfoSphere MDM) deployment with
 the cost, complexity, and risk of managing your own infrastructure. IBM MDM on Cloud
 provides preinstalled InfoSphere MDM configurations for production and development
 environments in an IBM SoftLayer® cloud-hosted environment.
+{: shortdesc}
 
 After you [request a service](/catalog/services/ibm-master-data-management-on-cloud)
 and receive your welcome letter with the service details,
 [**view the PDF documentation to get started**](https://public.dhe.ibm.com/cloud/bluemix/hosted/).
 
-## Additional resources
-
-- [IBM MDM on Cloud Learning Center](http://ibmtvdemo.edgesuite.net/software/analytics/learning-centers/mdm-on-cloud/index.html){: new_window}
