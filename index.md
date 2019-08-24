@@ -25,3 +25,6 @@ After you [request a service](/catalog/services/ibm-master-data-management-on-cl
 and receive your welcome letter with the service details,
 [**view the PDF documentation to get started**](https://public.dhe.ibm.com/cloud/bluemix/hosted/).
 
+## More information
+
+- [About Master Data Management on Cloud](https://www.ibm.com/cloud/mdm)
