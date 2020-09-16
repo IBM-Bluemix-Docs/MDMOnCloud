@@ -2,7 +2,7 @@
 {:navgroup: .navgroup}
 
 {: .toc subcollection="MDMOnCloud" category="analytics" audience="service" arm="3663109" href="/docs/MDMOnCloud?topic=MDMOnCloud-mdmoc_getting_started" path="MDMOnCloud"}
-IBM Master Data Management on Cloud
+Master Data Management on Cloud
 
     {: .navgroup id="learn"}
     index.md
